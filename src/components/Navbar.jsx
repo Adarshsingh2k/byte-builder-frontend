@@ -32,8 +32,8 @@ const Navbar = () => {
         <div className="container mx-auto px-4 py-3">
           <div className="flex justify-between items-center">
             <a
-              href="#"
-              className={`text-2xl font-bold ${
+              href="#abc"
+              className={`text-2xl  font-bold ${
                 scrolled ? "text-black" : "text-green-400"
               }`}
             >
